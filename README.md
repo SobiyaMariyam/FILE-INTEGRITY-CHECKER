@@ -15,6 +15,7 @@
 ***DESCRIPTION OF TASK-1***
 # File Integrity Checker
 
+## Objective
 A Python script designed to monitor and verify the integrity of files within a specified directory. By utilizing hashing algorithms, it ensures that any changes, additions, or deletions in files are detected and logged.
 
 ## Features
